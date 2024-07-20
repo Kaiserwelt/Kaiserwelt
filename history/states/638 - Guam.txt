@@ -1,0 +1,24 @@
+state = {
+	id = 638
+	name = "STATE_638"
+	manpower = 20900
+	state_category = one_island
+
+	history = {
+
+
+		victory_points = { 12140 1 }
+
+		buildings = {
+			infrastructure = 2
+			12140 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		12140
+	}
+}
+

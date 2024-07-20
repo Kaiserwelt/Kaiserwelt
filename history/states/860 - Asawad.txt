@@ -1,0 +1,19 @@
+state = {
+	id = 860
+	name = "STATE_860" #Desert Malien
+	manpower = 79243
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10725 13580 13598
+	}
+}
+

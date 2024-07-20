@@ -1,0 +1,23 @@
+state = {
+	id = 29
+	name = "STATE_29"
+	manpower = 299690
+	state_category = five
+
+	history = {
+
+		victory_points = { 575 1 } #Dunkirk
+
+		buildings = {
+			infrastructure = 4
+			575 = {
+				naval_base = 6
+			}
+		}
+	}
+
+	provinces = {
+		575
+	}
+}
+

@@ -1,0 +1,27 @@
+state = {
+	id = 32
+	name = "STATE_32"
+	manpower = 540000
+	state_category = six
+
+	resources = {
+		aluminium = 43
+		steel = 41
+	}
+
+	history = {
+
+		victory_points = { 780 3 } #Valence
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+	}
+
+	provinces = {
+		780 9728 11713 11716
+	}
+}
+

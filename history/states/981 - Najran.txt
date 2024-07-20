@@ -1,0 +1,19 @@
+state = {
+	id = 981
+	name = "STATE_981"
+	manpower = 45336
+	state_category = wasteland
+
+	history = {
+
+		victory_points = { 13875 1 } #Najran
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5006 13874 13875
+	}
+}

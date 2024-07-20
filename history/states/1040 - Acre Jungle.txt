@@ -1,0 +1,19 @@
+state = {
+	id = 1040
+	name = "STATE_1040"
+	manpower = 2300
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13530
+	}
+}
+

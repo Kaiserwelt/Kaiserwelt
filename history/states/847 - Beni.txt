@@ -1,0 +1,21 @@
+state = {
+	id = 847
+	name = "STATE_847"
+	manpower = 221365
+	state_category = two
+
+	history = {
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = { 13520 1 }
+		victory_points = { 13515 3 }
+	}
+
+	provinces = {
+		8211 10982 10996 12917 13407 13515 13517 13520 13521
+	}
+}
+

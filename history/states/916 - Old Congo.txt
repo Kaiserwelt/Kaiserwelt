@@ -1,0 +1,19 @@
+state = {
+	id = 916
+	name = "STATE_916"
+	manpower = 371188
+	state_category = one
+
+	history = {
+
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 8219 1 }
+	}
+
+	provinces = {
+		8219 13660
+	}
+}
+
