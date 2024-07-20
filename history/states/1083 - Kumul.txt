@@ -5,6 +5,8 @@ state = {
 	state_category = two
 
 	history = {
+		owner = ETS
+		add_core_of = ETS
 		victory_points = { 4704 5 } #POP 1 + STRAT 1 + POL 1 = SIG 3
 
 		buildings = {

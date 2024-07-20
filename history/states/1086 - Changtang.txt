@@ -6,6 +6,8 @@ state = {
 	impassable = yes
 
 	history = {
+		owner = TIB
+		add_core_of = TIB
 		buildings = {
 			infrastructure = 1
 		}

@@ -6,7 +6,8 @@ state = {
 	local_supplies = 1.0
 
 	history = {
-
+		owner = LIT
+		add_core_of = LIT
 		buildings = {
 			infrastructure = 3
 		}

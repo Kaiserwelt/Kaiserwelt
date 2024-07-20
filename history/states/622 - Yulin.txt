@@ -10,6 +10,8 @@ state = { #Shaanxi
 	}
 
 	history = {
+		owner = CHI
+		add_core_of = CHI
 		victory_points = { 8049 20 } #POP 4 + STRAT 1 + POL 1 = SIG 6
 
 		buildings = {

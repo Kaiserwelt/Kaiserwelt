@@ -6,6 +6,8 @@ state = {
 	local_supplies = 6.0
 
 	history = {
+		owner = ETS
+		add_core_of = ETS
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1

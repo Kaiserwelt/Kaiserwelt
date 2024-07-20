@@ -5,7 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
+		owner = BAT
+		add_core_of = BAT
 		victory_points = { 310 10 } #Dvinsk
 		victory_points = { 222 3 } #Rezhitsa
 

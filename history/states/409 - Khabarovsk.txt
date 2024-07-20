@@ -9,6 +9,9 @@ state = {
 	}
 
 	history = {
+		owner = TRM
+		add_core_of = TRM
+		add_core_of = RUS
 		victory_points = { 12189 1 }
 		victory_points = { 9604 1 }
 

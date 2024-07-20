@@ -5,7 +5,8 @@ state = { #Chongqing
 	state_category = four
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

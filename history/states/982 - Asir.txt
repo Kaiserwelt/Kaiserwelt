@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = TUR
+		add_core_of = TUR
 		victory_points = { 8073 1 } #Jazan
 		victory_points = { 13664 1 } #Abha
 

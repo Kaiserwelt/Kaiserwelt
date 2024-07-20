@@ -10,7 +10,8 @@ state = { #Jinan
 	}
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

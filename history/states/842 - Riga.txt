@@ -5,6 +5,8 @@ state = {
 	state_category = six
 
 	history = {
+		owner = BAT
+		add_core_of = BAT
 		victory_points = { 9340 20 }
 
 		buildings = {

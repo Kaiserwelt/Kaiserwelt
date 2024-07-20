@@ -5,7 +5,7 @@ state = { # Fuzhou
 	state_category = port
 
 	history = {
-
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

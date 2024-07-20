@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GRE
+		add_core_of = GRE
 		victory_points = { 3914 3 } #Ioannina
 
 		buildings = {

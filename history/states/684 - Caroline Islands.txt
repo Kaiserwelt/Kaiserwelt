@@ -5,7 +5,7 @@ state = {
 	state_category = one_island
 
 	history = {
-
+		owner = JAP
 
 		victory_points = { 2489 1 }
 		victory_points = { 13028 1 }

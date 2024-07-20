@@ -6,7 +6,8 @@ state = {
 	local_supplies = 1.0
 
 	history = {
-
+		owner = TIB
+		add_core_of = TIB
 		victory_points = { 1882 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2
 
 		buildings = {

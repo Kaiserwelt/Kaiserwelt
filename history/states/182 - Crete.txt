@@ -5,7 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = GRE
+		add_core_of = GRE
 		victory_points = { 9940 5 } #Iraklion
 		victory_points = { 12058 3 } #Chania
 

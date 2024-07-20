@@ -9,7 +9,8 @@ state = { #Gansu
 	}
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		victory_points = { 1630 20 } #POP 2 + STRAT 2 + POL 2 = SIG 6
 		victory_points = { 556 1 } #POP 1 + STRAT 0 + POL 0 = SIG 1
 

@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = LIT
+		add_core_of = LIT
 		victory_points = { 3254 1 }
 		victory_points = { 11301 2 }
 

@@ -5,7 +5,8 @@ state = {
 	state_category = four
 
 	history = {
-
+		owner = GRE
+		add_core_of = GRE
 		victory_points = { 7211 5 } #Patras
 		victory_points = { 7096 1 } #Argos
 		victory_points = { 11965 1 } #Kalamata

@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		victory_points = { 1962 30 } #POP 4 + STRAT 2 + POL 2 = SIG 8
 
 		buildings = {

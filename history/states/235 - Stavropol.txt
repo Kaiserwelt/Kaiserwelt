@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = RUS
+		add_core_of = RUS
 		victory_points = { 748 5 } #Stavropol
 
 		buildings = {

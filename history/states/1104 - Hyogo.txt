@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = JAP
+		add_core_of = JAP
 		victory_points = { 13865 20 } #Kobe
 
 		buildings = {

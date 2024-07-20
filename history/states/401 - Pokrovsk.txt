@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = RUS
+		add_core_of = RUS
 		victory_points = { 11523 3 } #Pokrovsk
 		victory_points = { 6502 1 } #Balakovo
 

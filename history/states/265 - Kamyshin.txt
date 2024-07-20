@@ -5,7 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = RUS
+		add_core_of = RUS
 		victory_points = { 6506 5 } #Kamyshin
 		victory_points = { 11485 1 } #Mikhaylovka
 

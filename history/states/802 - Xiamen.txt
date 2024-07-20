@@ -5,6 +5,8 @@ state = { # Xiamen
 	state_category = port
 
 	history = {
+		owner = JAP
+		add_core_of = CHI
 		victory_points = { 7071 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2
 
 		buildings = {

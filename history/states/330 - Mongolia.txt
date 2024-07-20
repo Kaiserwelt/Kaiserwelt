@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MON
+		add_core_of = MON
 		victory_points = { 1834 3 } #Moron
 		victory_points = { 4801 10 }#Urga
 		victory_points = { 10578 1 } #Bayan Tumen

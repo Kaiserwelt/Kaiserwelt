@@ -6,7 +6,8 @@ state = {
 	local_supplies = 8.0
 
 	history = {
-
+		owner = MON
+		add_core_of = MON
 		victory_points = { 7799 2 } #Uliastai
 		victory_points = { 7843 1 } #Ulaangom
 		victory_points = { 12520 1 } #Khovd

@@ -5,6 +5,8 @@ state = { #Qinghai
 	state_category = one
 
 	history = {
+		owner = TIB
+		add_core_of = TIB
 		victory_points = { 4888 10 } #POP 2 + STRAT 1 + POL 1 = SIG 4
 
 		buildings = {

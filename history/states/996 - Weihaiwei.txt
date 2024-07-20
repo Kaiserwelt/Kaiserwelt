@@ -5,7 +5,8 @@ state = {
 	state_category = minor_port
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 			13670 = {

@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GRE
+		add_core_of = GRE
 		victory_points = { 4109 20 } #Athens
 		victory_points = { 7127 3 } #Chalcis
 		victory_points = { 976 1 } #Lamia

@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = RUS
+		add_core_of = RUS
 		victory_points = { 6338 50 }
 
 		buildings = {

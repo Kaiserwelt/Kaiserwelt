@@ -6,7 +6,8 @@ state = {
 	local_supplies = 9.0
 
 	history = {
-
+		owner = UKR
+		add_core_of = UKR
 		victory_points = { 413 15 }
 
 		buildings = {

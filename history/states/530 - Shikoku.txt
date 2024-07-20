@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = JAP
+		add_core_of = JAP
 
 		victory_points = { 4179 5 } #Matsuyama
 		victory_points = { 7197 5 } #Kochi

@@ -5,6 +5,8 @@ state = { #Ordos
 	state_category = one
 
 	history = {
+		owner = MON
+		add_core_of = MON
 		victory_points = { 10451 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2
 
 		buildings = {

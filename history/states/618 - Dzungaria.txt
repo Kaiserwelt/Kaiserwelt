@@ -5,6 +5,8 @@ state = {
 	state_category = one
 
 	history = {
+		owner = ETS
+		add_core_of = ETS
 		buildings = {
 			infrastructure = 1
 		}

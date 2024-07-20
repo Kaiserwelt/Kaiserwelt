@@ -6,6 +6,8 @@ state = {
 	local_supplies = 4.0
 
 	history = {
+		owner = TUR
+		add_core_of = TUR
 		victory_points = { 12473 8 }
 
 		buildings = {

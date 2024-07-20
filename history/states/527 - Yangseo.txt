@@ -10,7 +10,7 @@ state = {
 	}
 
 	history = {
-
+		owner = JAP
 		victory_points = { 4052 15 }
 
 		buildings = {

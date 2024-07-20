@@ -5,7 +5,8 @@ state = {
 	state_category = major_port
 
 	history = {
-
+		owner = JAP
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

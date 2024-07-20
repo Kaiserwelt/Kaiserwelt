@@ -5,7 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		victory_points = { 1188 15 } #POP 4 + STRAT 0 + POL 1 = SIG 5
 
 		buildings = {

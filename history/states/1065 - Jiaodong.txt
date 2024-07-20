@@ -6,7 +6,8 @@ state = {
 	local_supplies = 1.0
 
 	history = {
-
+		owner = CHI
+		add_core_of = CHI
 		victory_points = { 1184 10 } #POP 3 + STRAT 1 + POL 0 = SIG 4
 		victory_points = { 1104 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2
 

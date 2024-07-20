@@ -6,7 +6,8 @@ state = {
 	local_supplies = 10.0
 
 	history = {
-
+		owner = UKR
+		add_core_of = UKR
 		victory_points = { 3686 20 } #Sevastopol
 		victory_points = { 9680 1 } #Kerch
 		victory_points = { 6704 5 } #Simferopol
