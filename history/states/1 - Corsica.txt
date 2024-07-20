@@ -5,9 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
 		victory_points = { 3838 1 } #Ajaccio
-
+		owner = TST
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

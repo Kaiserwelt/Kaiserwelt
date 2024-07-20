@@ -197,7 +197,6 @@ ideas = {
 		}
 		steel_wings_steel_hearts_spirit = {
 			ledger = air
-			visible = { has_government = communism }
 			available = {
 			}
 			modifier = {

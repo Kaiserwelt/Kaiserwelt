@@ -9,7 +9,6 @@ state = {
 	}
 
 	history = {
-		set_demilitarized_zone = yes
 		victory_points = { 12964 10 }
 		victory_points = { 10943 2 }
 		victory_points = { 12453 2 }

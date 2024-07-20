@@ -5,7 +5,6 @@ state = {
 	state_category = one
 
 	history = {
-		set_demilitarized_zone = yes
 
 		victory_points = { 11007 3 }
 

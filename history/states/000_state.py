@@ -13,6 +13,7 @@ for i in range (len(state_list)):
         df.drop(df[df.str.contains('add_claim_by')].index,inplace=True)
         df.drop(df[df.str.contains('add_to_array')].index,inplace=True)
         df.drop(df[df.str.contains('add_dynamic_modifier')].index,inplace=True)
+        df.drop(df[df.str.contains('set_demilitarized_zone')].index,inplace=True)
         lines = df.to_list()
 
     with open(state_list[i],"w",encoding="utf-8") as f:

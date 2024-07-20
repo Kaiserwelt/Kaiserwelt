@@ -1,0 +1,10 @@
+﻿l_japanese:
+ ST: "st"
+ ND: "nd"
+ RD: "rd"
+ TH: "th"
+ WAR_NAME: "$FIRST$・$SECOND$戦争"
+ CIVIL_WAR_NAME: "$SECOND$内戦"
+ WAR_TAKE_CORE_NAME: "$FIRST$による$STATE$奪還戦争"
+ WAR_TAKE_CLAIM_NAME: "$FIRST$による$STATE$侵略戦争"
+ INDEPENDENCE_WAR_NAME: "$FIRST$独立戦争"

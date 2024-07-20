@@ -1,0 +1,8 @@
+﻿l_japanese:
+ KR_history_title: "略史"
+ KR_scenario_name: "先の大戦の遺産"
+ KR_scenario_desc: "　1936年の幕開けと共に、前大戦の遺産が新世代の肩に重く圧し掛かる。ドイツは世界の中心に位置し、他に類を見ない影響力を有しているが、その足元にはフランスの勃興するサンディカリズム「インターナショナル」・旧来の「協商」・不滅のロシア、そして後悔を忘れた日出ずる国（即ち日本）などの新旧の敵が横たわっている。その間、ドイツの広大な領土は危険なまでに拡張され、コンスタンティノープルやウィーンの同盟国は疎遠になり、大西洋の向こう側ではアメリカと言う名の巨人が弱体化しつつある。大戦終結から17年が経過し、新たな年に転機が訪れるとは誰も思っていない。だが、やがて小さな火種が火薬庫に改めて点火しかねない状況になるやもしれないのだ……"
+ OTHER_KR_gathering_storm_desc: "　大小含む世界の各国は、この世界の主要国として昇る出番を待っている。帝国を維持しようとする大国から、先の大戦で失ったものを取り戻そうとする多くの国まで、あらゆる国家は世界の将来に影響力を有するために、困難な決断を下し、理想と実利の均衡を保たねばならないだろう……"
+ Debug_KR_gathering_storm_desc: "これが発生した場合は、バグレポートを作成してください。"
+ highlight_minor_0_tt: "All of §cHunan§!'s content has been updated.\nIt now features §Ynew national focuses§!, §Yevents§!, §Ydecisions§! and §Ymore§!."
+ highlight_minor_1_tt: "§nShanxi§!'s §YChinese Unification§! has been updated.\nIt now features §Ynew national focuses§!, §Yevents§!, §Ydecisions§! and §Ymore§!."

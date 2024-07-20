@@ -1,0 +1,5 @@
+﻿l_japanese:
+ FACTION_LEADER: "陣営の盟主: §Y$COUNTRY$§!"
+ FACTION_MEMBER: "陣営の構成国: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE: "宗主国の陣営に加盟"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE: "我が国は宗主国の下$FACTION|H$陣営に加盟した"

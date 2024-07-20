@@ -6,7 +6,6 @@ state = {
 
 	history = {
 
-		set_demilitarized_zone = yes
 
 		buildings = {
 			infrastructure = 1

@@ -1,0 +1,5 @@
+﻿l_japanese:
+ autonomous_state: "自治州"
+ semi_autonomous_state: "半自治州"
+ unlocks_espionage_operation_tt: "§Yスパイ作戦§!を解禁:\n"
+ invite_to_faction_tt: "我々の陣営に招待されている。"
