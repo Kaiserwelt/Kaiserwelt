@@ -10,7 +10,6 @@ state = {
 	}
 
 	history = {
-		controller = LEP
 
 		buildings = {
 			infrastructure = 2
