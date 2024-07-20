@@ -107,11 +107,11 @@ leader_traits = {
 
 	dislikes_germany = {
 		random = no
-		ai_strategy = {
-			type = antagonize
-			id = "GER"
-			value = 200
-		}
+		# ai_strategy = {
+		# 	type = antagonize
+		# 	id = "GER"
+		# 	value = 200
+		# }
 
 		ai_will_do = {
 			factor = 1
