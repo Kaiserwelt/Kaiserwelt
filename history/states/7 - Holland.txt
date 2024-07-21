@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = HOL
+		add_core_of = HOL
 		victory_points = { 391 40 } #Amsterdam
 		victory_points = { 3211 10 } #The Hague
 		victory_points = { 9498 15 } #Rotterdam

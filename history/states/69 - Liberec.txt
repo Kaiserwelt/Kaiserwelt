@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 11401 2 } #Liberec
 
 		buildings = {

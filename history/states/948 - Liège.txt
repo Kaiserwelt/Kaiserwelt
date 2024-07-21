@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = BEL
+		add_core_of = BEL
 		victory_points = { 11519 10 } #Liège
 		victory_points = { 9418 2 } #Bastogne
 

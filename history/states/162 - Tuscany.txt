@@ -5,7 +5,8 @@ state = {
 	state_category = eight
 
 	history = {
-
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 9907 20 } #Firenze
 		victory_points = { 6973 3 } #La Spezia
 		victory_points = { 11833 2 } #Livorno

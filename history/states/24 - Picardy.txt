@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 454 5 } #Amiens
 
 		buildings = {

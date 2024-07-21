@@ -5,6 +5,8 @@ state = {
 	state_category = eight
 
 	history = {
+		owner = EGY
+		add_core_of = EGY
 		victory_points = { 7011 30 } #Cairo
 		victory_points = { 3996 8 } #Giza
 		victory_points = { 1068 3 } #Beni Suef

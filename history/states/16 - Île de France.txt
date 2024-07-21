@@ -5,7 +5,8 @@ state = {
 	state_category = twelve
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 11506 50 } #Paris
 
 		buildings = {

@@ -5,6 +5,8 @@ state = {
 	state_category = one
 
 	history = {
+		owner = ALB
+		add_core_of = ALB
 		victory_points = { 914 3 } #Tirana
 
 		buildings = {

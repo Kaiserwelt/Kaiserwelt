@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 13011 3 } #Reims
 		victory_points = { 9490 1 } #Troyes
 

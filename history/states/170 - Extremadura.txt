@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SPA
+		add_core_of = SPA
 		victory_points = { 11851 1 }
 
 		buildings = {

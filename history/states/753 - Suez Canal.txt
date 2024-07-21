@@ -5,7 +5,6 @@ state = {
 	state_category = major_port
 
 	history = {
-
 		buildings = {
 			air_base = 3
 			infrastructure = 1

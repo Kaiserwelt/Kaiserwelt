@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 13553 1 } #Tesin
 
 		buildings = {

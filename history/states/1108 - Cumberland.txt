@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GBP
+		add_core_of = GBP
 		victory_points = { 11332 3 } #Carlisle
 
 		buildings = {

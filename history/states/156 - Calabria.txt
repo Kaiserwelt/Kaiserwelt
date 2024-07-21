@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 9990 2 } #Reggio di Calabria
 
 		buildings = {

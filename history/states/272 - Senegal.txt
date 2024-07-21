@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRA
+		add_core_of = FRA
 		victory_points = { 4948 10 } #Dakar
 		victory_points = { 12710 3 } #Saint Louis
 

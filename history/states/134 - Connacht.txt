@@ -6,7 +6,8 @@ state = {
 	local_supplies = 13.0
 
 	history = {
-
+		owner = IRE
+		add_core_of = IRE
 		victory_points = { 9303 2 }
 
 		buildings = {

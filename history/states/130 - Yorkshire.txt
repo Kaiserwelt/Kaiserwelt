@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GBP
+		add_core_of = GBP
 		victory_points = { 9379 10 } #Leeds
 		victory_points = { 11297 5 } #Hull
 		victory_points = { 9315 15 } #Sheffield

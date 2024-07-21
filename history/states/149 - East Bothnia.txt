@@ -5,7 +5,8 @@ state = {
 	state_category = four
 
 	history = {
-
+		owner = FIN
+		add_core_of = FIN
 		victory_points = { 3122 2 } #Vaasa
 		victory_points = { 11121 2 } #Oulu
 		victory_points = { 11164 2 } #Kemi

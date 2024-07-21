@@ -5,7 +5,8 @@ state = {
 	state_category = six
 
 	history = {
-
+		owner = GBP
+		add_core_of = GBP
 		victory_points = { 540 10 }
 		victory_points = { 6526 1 }
 

@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = IRE
+		add_core_of = IRE
 		victory_points = { 11293 20 } #Dublin
 		victory_points = { 369 0 } #Athlone
 

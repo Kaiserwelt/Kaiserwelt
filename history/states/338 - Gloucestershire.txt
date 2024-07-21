@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GBP
+		add_core_of = GBP
 		victory_points = { 3369 5 }
 
 		buildings = {

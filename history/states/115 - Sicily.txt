@@ -5,7 +5,8 @@ state = {
 	state_category = six
 
 	history = {
-
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 10074 20 } #Palermo
 		victory_points = { 4159 5 } #Messina
 		victory_points = { 4014 5 } #Catania

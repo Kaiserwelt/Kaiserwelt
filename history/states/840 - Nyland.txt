@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = FIN
+		add_core_of = FIN
 		victory_points = { 11105 15 } #Helsinki
 		victory_points = { 67 2 } #Lahti
 		victory_points = { 3061 2 } #Kotka

@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = IRE
+		add_core_of = IRE
 		victory_points = { 3379 8 }
 		victory_points = { 385 1 }
 

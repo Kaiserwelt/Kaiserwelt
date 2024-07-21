@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = BEL
+		add_core_of = BEL
 		victory_points = { 6560 10 } #Ghent
 		victory_points = { 6446 5 } #Bruges
 		victory_points = { 13659 1 } #Kortrijk

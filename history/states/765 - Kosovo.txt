@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = ALB
+		add_core_of = ALB
 		victory_points = { 9874 3 }
 
 		buildings = {

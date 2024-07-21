@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = BEL
+		add_core_of = BEL
 		victory_points = { 11483 20 } #Lille
 
 		buildings = {

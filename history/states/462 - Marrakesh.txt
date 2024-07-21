@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MOR
+		add_core_of = MOR
 		victory_points = { 4108 3 } #Marrakesh
 		victory_points = { 7203 2 } #Agadir
 		victory_points = { 5046 1 } #Guelmim

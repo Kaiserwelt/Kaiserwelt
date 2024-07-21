@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = FIN
+		add_core_of = FIN
 		victory_points = { 9206 3 } #Viipuri
 		victory_points = { 2998 1 } #Porajarvi
 		victory_points = { 3187 1 } #Sortavala

@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SWE
+		add_core_of = SWE
 		victory_points = { 130 1 } #Sundsvall
 		victory_points = { 156 1 } #Falun
 		victory_points = { 11091 1 } #Gavle

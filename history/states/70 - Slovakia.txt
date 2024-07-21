@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 541 3 } #Trnava
 		victory_points = { 3581 3 } #Presov
 		victory_points = { 6573 2 } #Kosice

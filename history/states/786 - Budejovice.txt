@@ -5,6 +5,8 @@ state = {
 	state_category = five
 
 	history = {
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 9541 3 } #Budejovice
 
 		buildings = {

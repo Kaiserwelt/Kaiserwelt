@@ -5,6 +5,8 @@ state = {
 	state_category = four
 
 	history = {
+		owner = WLS
+		add_core_of = WLS
 		victory_points = { 9364 1 }
 
 		buildings = {

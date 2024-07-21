@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = SPA
+		add_core_of = SPA
 		victory_points = { 3938 20 } #Madrid
 		victory_points = { 896 1 } #Toledo
 

@@ -5,6 +5,8 @@ state = {
 	state_category = five
 
 	history = {
+		owner = GER
+		add_core_of = GER
 		victory_points = { 3380 3 } #Elbing
 		victory_points = { 9346 2 } #Allenstein
 

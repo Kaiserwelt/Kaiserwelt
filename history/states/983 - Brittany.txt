@@ -5,6 +5,8 @@ state = {
 	state_category = four
 
 	history = {
+		owner = BRI
+		add_core_of = BRI
 		victory_points = { 3552 10 } #Brest
 		victory_points = { 6536 1 } #Lorient
 

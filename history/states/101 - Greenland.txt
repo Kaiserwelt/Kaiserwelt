@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = DEN
+		add_core_of = DEN
 		victory_points = { 13601 1 }
 
 		buildings = {

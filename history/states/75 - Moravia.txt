@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 3569 10 } #Brno
 		victory_points = { 6562 5 } #Olomouc
 		victory_points = { 9567 3 } #Ostrava

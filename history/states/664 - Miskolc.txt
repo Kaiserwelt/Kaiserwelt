@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 6751 1 }
 
 		buildings = {

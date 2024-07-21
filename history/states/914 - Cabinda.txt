@@ -5,7 +5,8 @@ state = {
 	state_category = minor_port
 
 	history = {
-
+		owner = POR
+		add_core_of = POR
 		buildings = {
 			infrastructure = 1
 			2115 = {

@@ -6,7 +6,8 @@ state = {
 	local_supplies = 5.0
 
 	history = {
-
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 9627 10 }
 
 		buildings = {

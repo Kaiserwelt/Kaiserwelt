@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 11584 10 } #Venezia
 		victory_points = { 3604 3 } #Padova
 		victory_points = { 603 1 } #Verona

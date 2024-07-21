@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRA
+		add_core_of = FRA
 		victory_points = { 1145 30 } #Alger
 		victory_points = { 4146 3 } #Bilda
 

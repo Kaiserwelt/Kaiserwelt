@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SCO
+		add_core_of = SCO
 		victory_points = { 3273 15 } #Glasgow
 		victory_points = { 11218 1 } #Dumfries
 		victory_points = { 3311 1 } #Douglas

@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 6545 3 } #Verdun
 		victory_points = { 11516 5 } #Nancy
 

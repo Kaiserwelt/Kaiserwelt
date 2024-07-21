@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 6790 1 } #Parma
 		victory_points = { 9752 2 } #Modena
 

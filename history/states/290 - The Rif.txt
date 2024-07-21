@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SPA
+		add_core_of = SPA
 		victory_points = { 9945 3 } #Tangiers
 		victory_points = { 13860 2 } #Ceuta
 		victory_points = { 13873 2 } #Melilla

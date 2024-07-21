@@ -5,7 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
+		owner = SRD
+		add_core_of = SRD
 		victory_points = { 11773 3 } #Cagliari
 		victory_points = { 9772 2 } #Sassari
 

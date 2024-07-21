@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MOR
+		add_core_of = MOR
 		victory_points = { 989 2 } #Oujda
 		victory_points = { 4933 1 } #Ksar Es Souk
 

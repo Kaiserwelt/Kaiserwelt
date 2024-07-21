@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = BEL
+		add_core_of = BEL
 		victory_points = { 575 1 } #Dunkirk
 
 		buildings = {

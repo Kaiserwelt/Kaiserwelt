@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GER
+		add_core_of = GER
 		victory_points = { 9503 15 } #Strasbourg
 		victory_points = { 11502 3 } #Metz
 		victory_points = { 678 1 } #Mulhouse

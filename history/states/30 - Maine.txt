@@ -5,7 +5,8 @@ state = {
 	state_category = four
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 9478 3 } #Angers
 		victory_points = { 3671 1 } #Tours
 		victory_points = { 3509 1 } #Le Mans

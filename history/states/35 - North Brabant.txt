@@ -5,7 +5,8 @@ state = {
 	state_category = six
 
 	history = {
-
+		owner = HOL
+		add_core_of = HOL
 		victory_points = { 3262 5 } #Breda
 		victory_points = { 6496 3 } #Eindhoven
 

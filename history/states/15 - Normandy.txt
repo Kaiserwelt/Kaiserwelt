@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 9434 10 } #Le Havre
 		victory_points = { 6449 3 } #Cherbourg
 		victory_points = { 11563 3 } #Rouen

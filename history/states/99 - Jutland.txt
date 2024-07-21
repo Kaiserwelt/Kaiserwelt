@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = DEN
+		add_core_of = DEN
 		victory_points = { 6364 3 } #Aarhus
 		victory_points = { 6235 2 } #Aalborg
 		victory_points = { 399 1 } #Esbjerg

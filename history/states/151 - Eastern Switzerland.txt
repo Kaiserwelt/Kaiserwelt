@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SWI
+		add_core_of = SWI
 		victory_points = { 663 15 }
 
 		buildings = {

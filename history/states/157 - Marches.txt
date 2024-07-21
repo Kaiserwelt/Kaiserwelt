@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 925 3 } #Ancona
 
 		buildings = {

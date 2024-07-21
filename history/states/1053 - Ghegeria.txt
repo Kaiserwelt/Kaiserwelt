@@ -6,7 +6,8 @@ state = {
 	local_supplies = 5.0
 
 	history = {
-
+		owner = ALB
+		add_core_of = ALB
 		victory_points = { 9780 3 } #Shkodër
 
 		buildings = {

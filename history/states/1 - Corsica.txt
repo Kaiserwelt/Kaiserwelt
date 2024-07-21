@@ -6,7 +6,8 @@ state = {
 
 	history = {
 		victory_points = { 3838 1 } #Ajaccio
-		owner = TST
+		owner = FRA
+		add_core_of = FRA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

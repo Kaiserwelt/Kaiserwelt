@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRA
+		add_core_of = FRA
 		victory_points = { 11834 20 } #Marseille
 		victory_points = { 911 5 } #Toulon
 		victory_points = { 11877 3 } #Nimes

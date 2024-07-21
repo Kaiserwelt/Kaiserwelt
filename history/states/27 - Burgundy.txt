@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 3652 3 } #Dijon
 		victory_points = { 9642 1 } #Besançon
 

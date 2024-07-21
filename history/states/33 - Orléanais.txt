@@ -6,7 +6,8 @@ state = {
 	local_supplies = 15.0
 
 	history = {
-
+		owner = FRP
+		add_core_of = FRP
 		victory_points = { 512 5 } #Orleans
 		victory_points = { 3655 3 } #Bourges
 

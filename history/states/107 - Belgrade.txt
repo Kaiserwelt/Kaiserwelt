@@ -6,7 +6,8 @@ state = {
 	local_supplies = 4.0
 
 	history = {
-
+		owner = SER
+		add_core_of = SER
 		victory_points = { 11586 25 }
 
 		buildings = {

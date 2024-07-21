@@ -6,7 +6,8 @@ state = {
 	local_supplies = 4.0
 
 	history = {
-
+		owner = AUS
+		add_core_of = AUS
 		victory_points = { 3943 5 } #Zara
 		victory_points = { 3924 3 } #Split
 		victory_points = { 6889 3 } #Ragusa

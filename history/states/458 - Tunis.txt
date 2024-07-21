@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = FRA
+		add_core_of = FRA
 		victory_points = { 11969 20 } #Tunis
 		victory_points = { 9994 5 } #Bizerte
 		victory_points = { 11921 3 } #Sfax
