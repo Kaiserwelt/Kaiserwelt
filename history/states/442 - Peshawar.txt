@@ -6,7 +6,8 @@ state = {
 	local_supplies = 5.0
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 12717 2 } #Peshawar
 
 		buildings = {

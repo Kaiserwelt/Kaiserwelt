@@ -1,13 +1,24 @@
 ### Majors ###
+
+# アメリカ合衆国
 USA = "countries/WestEur.txt"
-IMP = "countries/WestEur.txt" #can be Canada or the UK
+# カナダ
+CAN = "countries/WestEur.txt"
+# ???
 NFA = "countries/WestEur.txt"
+# フランス王国
 FRA = "countries/WestEur.txt"
+# イングランド
 ENG = "countries/WestEur.txt"
+# ドイツ帝国
 GER = "countries/WestEur.txt"
+# ドナウ連邦(オーストリア)
 AUS = "countries/WestEur.txt"
+# ロシア
 RUS = "countries/EastEur.txt"
+# オスマン帝国
 TUR = "countries/EastEur.txt"
+# 日本
 JAP = "countries/Asian.txt"
 
 ### Western Europe ###

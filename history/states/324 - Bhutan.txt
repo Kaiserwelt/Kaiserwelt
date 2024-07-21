@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = BHU
+		add_core_of = BHU
 		victory_points = { 8010 3 }
 
 		buildings = {

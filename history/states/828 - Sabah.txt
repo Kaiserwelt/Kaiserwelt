@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = SAR
+		add_core_of = SAR
 		victory_points = { 10199 2 } # Sandakan
 		victory_points = { 10212 1 } # Kota Kinabalu
 

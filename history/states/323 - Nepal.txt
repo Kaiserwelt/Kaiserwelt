@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = NEP
+		add_core_of = NEP
 		victory_points = { 4987 3 }
 
 		buildings = {

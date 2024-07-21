@@ -5,6 +5,8 @@ state = {
 	state_category = two
 
 	history = {
+		owner = TRK
+		add_core_of = TRK
 		victory_points = { 11537 1 }
 
 		buildings = {

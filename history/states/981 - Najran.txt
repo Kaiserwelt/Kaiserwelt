@@ -5,7 +5,8 @@ state = {
 	state_category = wasteland
 
 	history = {
-
+		owner = JBS
+		add_core_of = JBS
 		victory_points = { 13875 1 } #Najran
 
 		buildings = {

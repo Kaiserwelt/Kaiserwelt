@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = SIA
+		add_core_of = SIA
 		victory_points = { 1315 1 } #Dawei/Thawai
 
 		buildings = {

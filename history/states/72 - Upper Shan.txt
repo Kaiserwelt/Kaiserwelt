@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

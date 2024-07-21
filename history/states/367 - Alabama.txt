@@ -5,7 +5,8 @@ state = {
 	state_category = six
 
 	history = {
-
+		owner = USA
+		add_core_of = USA
 		victory_points = { 12735 5 } #Birmingham
 		victory_points = { 492 3 } #Montgomery
 		victory_points = { 7480 2 } #Mobile

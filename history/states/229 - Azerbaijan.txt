@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = AZR
+		add_core_of = AZR
 		victory_points = { 7661 15 }
 		victory_points = { 11674 3 }
 		victory_points = { 4473 2 }

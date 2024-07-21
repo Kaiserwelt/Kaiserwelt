@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 		buildings = {
 			infrastructure = 1

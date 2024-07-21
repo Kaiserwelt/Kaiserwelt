@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 		victory_points = { 191 3 }
 		victory_points = { 4515 1 }

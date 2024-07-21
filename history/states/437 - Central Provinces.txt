@@ -5,6 +5,8 @@ state = {
 	state_category = two
 
 	history = {
+		owner = PRF
+		add_core_of = PRF
 
 		victory_points = { 12080 3 } #Indore
 		victory_points = { 11995 2 } #Bhopal

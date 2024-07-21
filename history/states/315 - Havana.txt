@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = CUB
+		add_core_of = CUB
 		victory_points = { 7622 15 }
 
 		buildings = {

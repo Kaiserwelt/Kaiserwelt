@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 12090 5 } #Sitwe
 
 		buildings = {

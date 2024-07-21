@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 1330 10 } # Yangon
 		victory_points = { 12256 1 } # Toungoo
 

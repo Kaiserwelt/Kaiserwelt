@@ -5,7 +5,8 @@ state = {
 	state_category = one_island
 
 	history = {
-
+		owner = FRA
+		add_core_of = FRA
 		victory_points = { 12003 5 }
 
 		buildings = {

@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 7260 3 } #Colombo
 		victory_points = { 10229 2 } #Trincomalee
 

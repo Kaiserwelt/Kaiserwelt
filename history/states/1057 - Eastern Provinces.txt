@@ -5,7 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 4953 5 } #Jubbalpur
 		victory_points = { 7938 3 } #Allahabad
 

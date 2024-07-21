@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 8011 10 } #Bengalore
 		victory_points = { 4344 3 } #Mysore
 

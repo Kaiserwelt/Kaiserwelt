@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 9975 20 } #Ahmedabad
 		victory_points = { 7150 3 } #Surat
 

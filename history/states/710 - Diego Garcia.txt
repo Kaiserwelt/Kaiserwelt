@@ -5,6 +5,8 @@ state = {
 	state_category = zero_island
 
 	history = {
+		owner = PRF
+		add_core_of = PRF
 		buildings = {
 			infrastructure = 1
 			13019 = {

@@ -5,6 +5,8 @@ state = {
 	state_category = seven
 
 	history = {
+		owner = SIA
+		add_core_of = SIA
 
 		victory_points = { 12299 25 } # Singapore
 

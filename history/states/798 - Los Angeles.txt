@@ -5,7 +5,8 @@ state = {
 	state_category = twelve
 
 	history = {
-
+		owner = USA
+		add_core_of = USA
 		victory_points = { 1562 5 } #San Diego
 		victory_points = { 9814 25 } #Los Angeles
 

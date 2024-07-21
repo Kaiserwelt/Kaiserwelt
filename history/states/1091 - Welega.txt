@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = ETH
+		add_core_of = ETH
 
 		victory_points = { 2009 2 } #Asosa
 		victory_points = { 13821 1 } #Dembidollo

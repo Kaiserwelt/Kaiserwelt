@@ -5,7 +5,8 @@ state = {
 	state_category = eight
 
 	history = {
-
+		owner = AST
+		add_core_of = AST
 		victory_points = { 12406 20 } #Sydney
 		victory_points = { 7520 1 } #Newcastle
 

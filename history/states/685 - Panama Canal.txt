@@ -5,6 +5,8 @@ state = {
 	state_category = major_port
 
 	history = {
+		owner = FRA
+		add_core_of = FRA
 		victory_points = { 7617 5 }
 
 		buildings = {

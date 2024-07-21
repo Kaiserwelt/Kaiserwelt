@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = SIA
+		add_core_of = SIA
 		victory_points = { 10313 7 } # Johor Bahru
 		victory_points = { 7427 1 } # Malacca
 		buildings = {

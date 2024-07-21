@@ -5,7 +5,8 @@ state = {
 	state_category = wasteland
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 12774 1 } #Gwadar
 
 		buildings = {

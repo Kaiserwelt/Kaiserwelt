@@ -6,7 +6,8 @@ state = {
 	local_supplies = 3.0
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 12730 1 } #Tawang
 
 		buildings = {

@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 		victory_points = { 2080 1 } #Yaounde
 

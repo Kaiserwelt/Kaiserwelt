@@ -5,7 +5,8 @@ state = {
 	state_category = nine
 
 	history = {
-
+		owner = QUE
+		add_core_of = QUE
 		victory_points = { 4345 20 } #Montreal
 		victory_points = { 12149 5 } #Quebec
 

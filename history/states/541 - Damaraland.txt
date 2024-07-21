@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 		victory_points = { 4879 3 }
 		victory_points = { 2207 1 }

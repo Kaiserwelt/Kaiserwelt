@@ -11,6 +11,8 @@ state = {
 	}
 
 	history = {
+		owner = SIA
+		add_core_of = SIA
 		victory_points = { 7329 2 } # Kota Bahru
 
 		buildings = {

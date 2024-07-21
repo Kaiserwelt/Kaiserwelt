@@ -5,7 +5,8 @@ state = {
 	state_category = nine
 
 	history = {
-
+		owner = USA
+		add_core_of = USA
 		buildings = {
 			infrastructure = 4
 			dockyard = 1

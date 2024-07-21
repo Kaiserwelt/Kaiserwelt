@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = OMA
+		add_core_of = OMA
 		victory_points = { 13748 1 } #Nizwa
 		victory_points = { 13749 1 } #Buraimi
 

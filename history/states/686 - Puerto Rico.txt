@@ -5,7 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = PUE
+		add_core_of = PUE
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

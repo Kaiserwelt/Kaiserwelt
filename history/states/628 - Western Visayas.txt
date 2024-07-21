@@ -6,7 +6,8 @@ state = {
 	local_supplies = 6.0
 
 	history = {
-
+		owner = PHI
+		add_core_of = PHI
 		victory_points = { 12118 1 }
 
 		buildings = {

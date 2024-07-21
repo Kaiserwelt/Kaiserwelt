@@ -6,7 +6,8 @@ state = {
 	impassable = yes
 
 	history = {
-
+		owner = JBS
+		add_core_of = JBS
 		buildings = {
 			infrastructure = 1
 		}

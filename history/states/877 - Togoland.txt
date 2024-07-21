@@ -5,7 +5,9 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = MAF
+		add_core_of = TOG
+		add_claim_by = MAF
 
 		buildings = {
 			infrastructure = 1

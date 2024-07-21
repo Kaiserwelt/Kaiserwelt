@@ -5,7 +5,7 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = GER
 		victory_points = { 8124 1 } #Djibouti
 
 		buildings = {

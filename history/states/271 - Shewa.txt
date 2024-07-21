@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = ETH
+		add_core_of = ETH
 		victory_points = { 5010 5 } #Addis Ababa
 		victory_points = { 8036 1 } #Asella
 

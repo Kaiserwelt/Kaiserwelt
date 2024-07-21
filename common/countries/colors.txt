@@ -39,6 +39,10 @@ BUL = {
 	color = rgb { 51 155 0 }
 	color_ui = rgb { 51 155 0 }
 }
+CAN = {
+	color = rgb { 233 59 59 }
+	color_ui = rgb { 155 62 51 }
+}
 CAT = {
 	color = rgb { 255 128 0 }
 	color_ui = rgb { 255 128 0 }

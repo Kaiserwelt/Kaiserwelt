@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SIA
+		add_core_of = SIA
 		victory_points = { 7408 15 } # Bangkok
 
 		buildings = {

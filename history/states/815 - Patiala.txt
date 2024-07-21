@@ -5,6 +5,8 @@ state = {
 	state_category = two
 
 	history = {
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 2032 1 } #Patiala
 
 		buildings = {

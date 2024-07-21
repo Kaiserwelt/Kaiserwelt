@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = INC
+		add_core_of = INC
 		victory_points = { 4075 15 } # Hanoi (+Haiphong)
 
 		buildings = {

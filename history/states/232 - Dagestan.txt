@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MNR
+		add_core_of = MNR
 		victory_points = { 3668 3 } #Petrovskoye
 
 		buildings = {

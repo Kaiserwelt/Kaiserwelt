@@ -6,7 +6,8 @@ state = {
 	local_supplies = 3.0
 
 	history = {
-
+		owner = OMA
+		add_core_of = OMA
 		victory_points = { 2103 1 } #Salalah
 
 		buildings = {

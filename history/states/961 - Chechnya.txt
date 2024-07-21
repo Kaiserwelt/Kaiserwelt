@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = MNR
+		add_core_of = MNR
 		victory_points = { 3672 5 } #Grozny
 
 		buildings = {

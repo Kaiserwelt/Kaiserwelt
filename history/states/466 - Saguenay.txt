@@ -5,7 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
+		owner = QUE
+		add_core_of = QUE
 		victory_points = { 4419 1 } #Chicoutimi
 		buildings = {
 			infrastructure = 2

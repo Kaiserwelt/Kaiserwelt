@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = INC
+		add_core_of = INC
 		victory_points = { 1464 8 } #Vientiane/Viangchan
 		victory_points = { 4613 3 } #Luang Prabang/Louangphabang
 		victory_points = { 1563 1 } #Pakse/Pakxe

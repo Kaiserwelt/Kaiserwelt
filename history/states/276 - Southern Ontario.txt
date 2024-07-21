@@ -5,7 +5,8 @@ state = {
 	state_category = twelve
 
 	history = {
-
+		owner = CAN
+		add_core_of = CAN
 		victory_points = { 3775 25 }
 
 		buildings = {

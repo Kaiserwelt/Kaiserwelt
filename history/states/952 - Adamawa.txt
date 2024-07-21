@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 		victory_points = { 11194 1 } #Garoua
 

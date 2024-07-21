@@ -5,7 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
+		owner = JBS
+		add_core_of = JBS
 		victory_points = { 4974 5 }
 
 		buildings = {

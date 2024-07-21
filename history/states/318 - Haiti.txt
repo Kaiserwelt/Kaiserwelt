@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = HAI
+		add_core_of = HAI
 		victory_points = { 4641 5 }
 		victory_points = { 13709 1 }
 

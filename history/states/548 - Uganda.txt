@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 
 		victory_points = { 12989 3 } #Kampala

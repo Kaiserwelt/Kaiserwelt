@@ -6,6 +6,8 @@ state = {
 	local_supplies = 2.0
 
 	history = {
+		owner = TRK
+		add_core_of = TRK
 		victory_points = { 12465 2 } #Khiva
 		victory_points = { 1614 1 } #Nukus
 

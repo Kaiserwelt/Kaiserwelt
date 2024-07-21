@@ -5,7 +5,8 @@ state = {
 	state_category = four
 
 	history = {
-
+		owner = USA
+		add_core_of = USA
 		victory_points = { 4565 5 } #Jackson
 		victory_points = { 4464 2 } #Biloxi
 

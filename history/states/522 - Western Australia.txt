@@ -5,6 +5,8 @@ state = {
 	state_category = three
 
 	history = {
+		owner = AST
+		add_core_of = AST
 		victory_points = { 1652 10 } #Perth
 		victory_points = { 8228 1 } #Fremantle
 

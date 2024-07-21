@@ -5,7 +5,8 @@ state = {
 	state_category = six
 
 	history = {
-
+		owner = PHI
+		add_core_of = PHI
 		victory_points = { 10265 15 }
 		victory_points = { 1221 1 }
 

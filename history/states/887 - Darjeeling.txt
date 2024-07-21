@@ -5,6 +5,8 @@ state = {
 	state_category = one
 
 	history = {
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 12338 1 } #Darjeeling
 
 		buildings = {

@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = GHA
+		add_core_of = GHA
 
 
 		victory_points = { 10862 1 } #Accra

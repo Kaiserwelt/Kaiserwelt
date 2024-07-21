@@ -5,7 +5,8 @@ state = {
 	state_category = port
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 10149 1 } #Pondicherry
 
 		buildings = {

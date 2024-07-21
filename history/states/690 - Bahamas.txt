@@ -5,6 +5,8 @@ state = {
 	state_category = zero_island
 
 	history = {
+		owner = BAH
+		add_core_of = BAH
 		victory_points = { 13607 3 }
 
 		buildings = {

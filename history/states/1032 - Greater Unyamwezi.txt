@@ -5,7 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
+		owner = MAF
+		add_claim_by = MAF
 
 		victory_points = { 8144 1 } #Tabora
 		victory_points = { 13317 1 } #Muansa

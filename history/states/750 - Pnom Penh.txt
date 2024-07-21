@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SIA
+		add_core_of = SIA
 		victory_points = { 7376 4 } #Phnom Penh/Phanom Pen
 		victory_points = { 4639 1 } #Kampong Cham
 		victory_points = { 10317 1 } #Kampot/Kamphot

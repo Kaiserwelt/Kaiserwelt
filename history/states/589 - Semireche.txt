@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = TRK
+		add_core_of = TRK
 		victory_points = { 1591 3 } #Verniy
 
 		buildings = {

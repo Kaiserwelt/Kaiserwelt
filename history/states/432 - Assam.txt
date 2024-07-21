@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = PRF
+		add_core_of = PRF
 		victory_points = { 12366 1 } #Gauhati
 
 		buildings = {

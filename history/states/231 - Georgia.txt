@@ -5,7 +5,8 @@ state = {
 	state_category = six
 
 	history = {
-
+		owner = GEO
+		add_core_of = GEO
 		victory_points = { 1599 10 }
 		victory_points = { 772 2 }
 		victory_points = { 3658 1 }

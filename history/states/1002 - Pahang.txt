@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+		owner = SIA
+		add_core_of = SIA
 		victory_points = { 12255 1 } #Kuala Lipis
 
 		buildings = {
