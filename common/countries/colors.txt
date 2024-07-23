@@ -361,6 +361,10 @@ SAU = {
 	color = rgb { 103 156 87 }
 	color_ui = rgb { 103 156 87 }
 }
+SEZ = {
+	color = rgb { 169 17 1 }
+	color_ui = rgb { 169 17 1 }
+}
 SYR = {
 	color = rgb { 126 203 120 }
 	color_ui = rgb { 126 203 120 }

@@ -5,6 +5,8 @@ state = {
 	state_category = major_port
 
 	history = {
+		owner = SEZ
+		add_core_of = EGY
 		buildings = {
 			air_base = 3
 			infrastructure = 1

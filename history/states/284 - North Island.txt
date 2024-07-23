@@ -5,7 +5,8 @@ state = {
 	state_category = five
 
 	history = {
-
+		owner = NZL
+		add_core_of = NZL
 		victory_points = { 1814 10 } #Wellington
 		victory_points = { 4543 5 } #Auckland
 
