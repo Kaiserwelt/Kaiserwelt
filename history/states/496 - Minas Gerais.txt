@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = BRA
+		add_core_of = BRA
 		victory_points = { 7476 15 } #Belo Horizonte
 		victory_points = { 12977 3 } #Uberlândia
 		victory_points = { 8148 1 } #Ouro Preto

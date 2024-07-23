@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = WIF
+		add_core_of = WIF
 		victory_points = { 10906 1 }
 
 		buildings = {

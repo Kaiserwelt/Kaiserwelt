@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = PRU
+		add_core_of = PRU
 
 		victory_points = { 13349 1 } #Iquitos
 

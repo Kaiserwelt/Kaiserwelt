@@ -6,7 +6,8 @@ state = {
 	impassable = yes
 
 	history = {
-
+		owner = WIF
+		add_core_of = WIF
 		buildings = {
 			infrastructure = 1
 		}

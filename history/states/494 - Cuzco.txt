@@ -5,7 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-
+		owner = PRU
+		add_core_of = PRU
 		buildings = {
 			infrastructure = 1
 		}

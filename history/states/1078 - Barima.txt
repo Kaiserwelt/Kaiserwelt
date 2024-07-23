@@ -6,7 +6,8 @@ state = {
 	local_supplies = 2.0
 
 	history = {
-
+		owner = VEN
+		add_core_of = VEN
 		buildings = {
 			infrastructure = 1
 		}

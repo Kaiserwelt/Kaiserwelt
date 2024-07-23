@@ -5,7 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-
+		owner = VEN
+		add_core_of = VEN
 		buildings = {
 			infrastructure = 1
 		}

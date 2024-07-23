@@ -9,6 +9,8 @@ state = {
 	}
 
 	history = {
+		owner = LEC
+		add_core_of = LEC
 		add_core_of = CHI
 		victory_points = { 4189 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2
 

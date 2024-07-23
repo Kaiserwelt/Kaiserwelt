@@ -5,7 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-
+		owner = BRA
+		add_core_of = BRA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

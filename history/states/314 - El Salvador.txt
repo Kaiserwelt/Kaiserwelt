@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-
+		owner = CEN
+		add_core_of = CEN
 		victory_points = { 12823 6 }
 		victory_points = { 13697 1 }
 

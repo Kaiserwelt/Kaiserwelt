@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = PRU
+		add_core_of = PRU
 		victory_points = { 2195 1 }
 		victory_points = { 10973 1 }
 
