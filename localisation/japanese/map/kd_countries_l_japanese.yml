@@ -1,0 +1,353 @@
+﻿l_japanese:
+ AFG: "アフガニスタン"
+ AFG_DEF: "アフガニスタン"
+ AFG_ADJ: "アフガニスタン"
+
+ ALB: "アルバニア"
+ ALB_DEF: "アルバニア"
+ ALB_ADJ: "アルバニア"
+
+ ARG: "アルゼンチン"
+ ARG_DEF: "アルゼンチン"
+ ARG_ADJ: "アルゼンチン"
+
+ AST: "オーストラリア"
+ AST_DEF: "オーストラリア"
+ AST_ADJ: "オーストラリア"
+
+ AUS: "ドナウ連邦"
+ AUS_DEF: "ドナウ連邦"
+ AUS_ADJ: "ドナウ連邦"
+
+ AZR: "アゼルバイジャン"
+ AZR_DEF: "アゼルバイジャン"
+ AZR_ADJ: "アゼルバイジャン"
+
+ BAT: "バルト連合公国"
+ BAT_DEF: "バルト連合公国"
+ BAT_ADJ: "バルト連合公国"
+
+ BEL: "フランドル=ワロン"
+ BEL_DEF: "フランドル=ワロン"
+ BEL_ADJ: "フランドル=ワロン"
+
+ BHU: "ブータン王国"
+ BHU_DEF: "ブータン王国"
+ BHU_ADJ: "ブータン王国"
+
+ BRA: "ブラジル"
+ BRA_DEF: "ブラジル"
+ BRA_ADJ: "ブラジル"
+
+ BRI: "ブルターニュ"
+ BRI_DEF: "ブルターニュ"
+ BRI_ADJ: "ブルターニュ"
+
+ BUL: "ブルガリア・ツァール国"
+ BUL_DEF: "ブルガリア・ツァール国"
+ BUL_ADJ: "ブルガリア・ツァール国"
+
+ CAN: "カナダ"
+ CAN_DEF: "カナダ"
+ CAN_ADJ: "カナダ"
+
+ CEN: "中央アメリカ連邦"
+ CEN_DEF: "中央アメリカ連邦"
+ CEN_ADJ: "中央アメリカ連邦"
+
+ CHI: "中華維新政府"
+ CHI_DEF: "中華維新政府"
+ CHI_ADJ: "中華維新政府"
+
+ CHL: "チリ"
+ CHL_DEF: "チリ"
+ CHL_ADJ: "チリ"
+
+ COL: "コロンビア"
+ COL_DEF: "コロンビア"
+ COL_ADJ: "コロンビア"
+
+ COS: "コスタリカ"
+ COS_DEF: "コスタリカ"
+ COS_ADJ: "コスタリカ"
+
+ CUB: "キューバ"
+ CUB_DEF: "キューバ"
+ CUB_ADJ: "キューバ"
+
+ DEN: "デンマーク"
+ DEN_DEF: "デンマーク"
+ DEN_ADJ: "デンマーク"
+
+ ECU: "エクアドル"
+ ECU_DEF: "エクアドル"
+ ECU_ADJ: "エクアドル"
+
+ EGY: "エジプト副王領"
+ EGY_DEF: "エジプト副王領"
+ EGY_ADJ: "エジプト副王領"
+
+ ETH: "エチオピア"
+ ETH_DEF: "エチオピア"
+ ETH_ADJ: "エチオピア"
+
+ ETS: "東トルキスタン"
+ ETS_DEF: "東トルキスタン"
+ ETS_ADJ: "東トルキスタン"
+
+ FIN: "フィンランド"
+ FIN_DEF: "フィンランド"
+ FIN_ADJ: "フィンランド"
+
+ FRA: "フランス王国"
+ FRA_DEF: "フランス王国"
+ FRA_ADJ: "フランス王国"
+
+ FRP: "フランス"
+ FRP_DEF: "フランス"
+ FRP_ADJ: "フランス"
+
+ GBP: "イングランド"
+ GBP_DEF: "イングランド"
+ GBP_ADJ: "イングランド"
+
+ GEO: "ジョージア"
+ GEO_DEF: "ジョージア"
+ GEO_ADJ: "ジョージア"
+
+ GER: "ドイツ帝国"
+ GER_DEF: "ドイツ帝国"
+ GER_ADJ: "ドイツ帝国"
+
+ GHA: "ガーナ"
+ GHA_DEF: "ガーナ"
+ GHA_ADJ: "ガーナ"
+
+ GRE: "ギリシャ"
+ GRE_DEF: "ギリシャ"
+ GRE_ADJ: "ギリシャ"
+
+ HAI: "ハイチ"
+ HAI_DEF: "ハイチ"
+ HAI_ADJ: "ハイチ"
+
+ HOL: "オランダ"
+ HOL_DEF: "オランダ"
+ HOL_ADJ: "オランダ"
+
+ ICE: "アイスランド"
+ ICE_DEF: "アイスランド"
+ ICE_ADJ: "アイスランド"
+
+ INC: "インドシナ"
+ INC_DEF: "インドシナ"
+ INC_ADJ: "インドシナ"
+
+ INS: "インドネシア"
+ INS_DEF: "インドネシア"
+ INS_ADJ: "インドネシア"
+
+ IRE: "アイルランド"
+ IRE_DEF: "アイルランド"
+ IRE_ADJ: "アイルランド"
+
+ ITA: "イタリア"
+ ITA_DEF: "イタリア"
+ ITA_ADJ: "イタリア"
+
+ JAP: "大日本帝国"
+ JAP_DEF: "大日本帝国"
+ JAP_ADJ: "大日本帝国"
+
+ JBS: "ジャバル・シャンマル"
+ JBS_DEF: "ジャバル・シャンマル"
+ JBS_ADJ: "ジャバル・シャンマル"
+
+ KEN: "ケニア"
+ KEN_DEF: "ケニア"
+ KEN_ADJ: "ケニア"
+
+ LEC: "条約都市"
+ LEC_DEF: "条約都市"
+ LEC_ADJ: "条約都市"
+
+ LIB: "リベリア"
+ LIB_DEF: "リベリア"
+ LIB_ADJ: "リベリア"
+
+ LIT: "リトアニア"
+ LIT_DEF: "リトアニア"
+ LIT_ADJ: "リトアニア"
+
+ MAF: "ミッテルアフリカ"
+ MAF_DEF: "ミッテルアフリカ"
+ MAF_ADJ: "ミッテルアフリカ"
+
+ MEX: "メキシコ"
+ MEX_DEF: "メキシコ"
+ MEX_ADJ: "メキシコ"
+
+ MNR: "山岳共和国"
+ MNR_DEF: "山岳共和国"
+ MNR_ADJ: "山岳共和国"
+
+ MNT: "モンテネグロ"
+ MNT_DEF: "モンテネグロ"
+ MNT_ADJ: "モンテネグロ"
+
+ MON: "モンゴル"
+ MON_DEF: "モンゴル"
+ MON_ADJ: "モンゴル"
+
+ NEP: "ネパール"
+ NEP_DEF: "ネパール"
+ NEP_ADJ: "ネパール"
+
+ NGA: "ナイジェリア"
+ NGA_DEF: "ナイジェリア"
+ NGA_ADJ: "ナイジェリア"
+
+ NZL: "ニュージーランド"
+ NZL_DEF: "ニュージーランド"
+ NZL_ADJ: "ニュージーランド"
+
+ OMA: "マスカット・スルタン国"
+ OMA_DEF: "マスカット・スルタン国"
+ OMA_ADJ: "マスカット・スルタン国"
+
+ PAN: "パナマ"
+ PAN_DEF: "パナマ"
+ PAN_ADJ: "パナマ"
+
+ PAR: "パラグアイ"
+ PAR_DEF: "パラグアイ"
+ PAR_ADJ: "パラグアイ"
+
+ PER: "ペルシア"
+ PER_DEF: "ペルシア"
+ PER_ADJ: "ペルシア"
+
+ PHI: "フィリピン"
+ PHI_DEF: "フィリピン"
+ PHI_ADJ: "フィリピン"
+
+ PNG: "パプア"
+ PNG_DEF: "パプア"
+ PNG_ADJ: "パプア"
+
+ POL: "ポーランド"
+ POL_DEF: "ポーランド"
+ POL_ADJ: "ポーランド"
+
+ POR: "ポルトガル"
+ POR_DEF: "ポルトガル"
+ POR_ADJ: "ポルトガル"
+
+ PRF: "藩王連邦"
+ PRF_DEF: "藩王連邦"
+ PRF_ADJ: "藩王連邦"
+
+ PRU: "ペルー・ボリビア"
+ PRU_DEF: "ペルー・ボリビア"
+ PRU_ADJ: "ペルー・ボリビア"
+
+ PUE: "プエルト・リコ"
+ PUE_DEF: "プエルト・リコ"
+ PUE_ADJ: "プエルト・リコ"
+
+ QUE: "ケベック"
+ QUE_DEF: "ケベック"
+ QUE_ADJ: "ケベック"
+
+ ROM: "ルーマニア"
+ ROM_DEF: "ルーマニア"
+ ROM_ADJ: "ルーマニア"
+
+ RUS: "ロシア"
+ RUS_DEF: "ロシア"
+ RUS_ADJ: "ロシア"
+
+ SAF: "南アフリカ"
+ SAF_DEF: "南アフリカ"
+ SAF_ADJ: "南アフリカ"
+
+ SAR: "サラワク"
+ SAR_DEF: "サラワク"
+ SAR_ADJ: "サラワク"
+
+ SCO: "スコットランド"
+ SCO_DEF: "スコットランド"
+ SCO_ADJ: "スコットランド"
+
+ SER: "セルビア"
+ SER_DEF: "セルビア"
+ SER_ADJ: "セルビア"
+
+ SIA: "シャム"
+ SIA_DEF: "シャム"
+ SIA_ADJ: "シャム"
+
+ SOM: "ソマリア"
+ SOM_DEF: "ソマリア"
+ SOM_ADJ: "ソマリア"
+
+ SPA: "スペイン"
+ SPA_DEF: "スペイン"
+ SPA_ADJ: "スペイン"
+
+ SRD: "サルデーニャ"
+ SRD_DEF: "サルデーニャ"
+ SRD_ADJ: "サルデーニャ"
+
+ SWE: "スウェーデン＝ノルウェー"
+ SWE_DEF: "スウェーデン＝ノルウェー"
+ SWE_ADJ: "スウェーデン＝ノルウェー"
+
+ SWI: "スイス"
+ SWI_DEF: "スイス"
+ SWI_ADJ: "スイス"
+
+ TIB: "チベット"
+ TIB_DEF: "チベット"
+ TIB_ADJ: "チベット"
+
+ TRK: "中央アジア連邦"
+ TRK_DEF: "中央アジア連邦"
+ TRK_ADJ: "中央アジア連邦"
+
+ TUR: "オスマン帝国"
+ TUR_DEF: "オスマン帝国"
+ TUR_ADJ: "オスマン帝国"
+
+ UKR: "ウクライナ国"
+ UKR_DEF: "ウクライナ国"
+ UKR_ADJ: "ウクライナ国"
+
+ URG: "ウルグアイ"
+ URG_DEF: "ウルグアイ"
+ URG_ADJ: "ウルグアイ"
+
+ USA: "アメリカ合衆国"
+ USA_DEF: "アメリカ合衆国"
+ USA_ADJ: "アメリカ合衆国"
+
+ VEN: "ベネズエラ"
+ VEN_DEF: "ベネズエラ"
+ VEN_ADJ: "ベネズエラ"
+
+ WHR: "白ルテニア"
+ WHR_DEF: "白ルテニア"
+ WHR_ADJ: "白ルテニア"
+
+ WIF: "西インド諸島連邦"
+ WIF_DEF: "西インド諸島連邦"
+ WIF_ADJ: "西インド諸島連邦"
+
+ WLS: "ウェールズ"
+ WLS_DEF: "ウェールズ"
+ WLS_ADJ: "ウェールズ"
+
+ YEM: "イエメン"
+ YEM_DEF: "イエメン"
+ YEM_ADJ: "イエメン"
+
